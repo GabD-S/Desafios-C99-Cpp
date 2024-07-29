@@ -31,5 +31,5 @@ Explore e veja como estou aplicando esses conceitos na prática!
 
 ---
 
-🎓 [Acesse a pasta Implementando](./implementando)
+🎓 [Acesse a pasta Implementando](./Implementando)
 
