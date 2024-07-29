@@ -5,8 +5,7 @@
 Beecrowd é uma plataforma incrível para aprender e praticar programação. Com muitos desafios e exercícios, você pode melhorar suas habilidades de forma divertida e interativa.
 
 🔗 [Visite o site do Beecrowd](https://www.beecrowd.com)  
-![Logo do Beecrowd](https://www.beecrowd.com/logo.png)
-
+<img src="Imagnes/download.jpeg" alt="Meu Rank" width="600"/>
 ---
 
 ## 👤 Perfil: Gabriel_S
