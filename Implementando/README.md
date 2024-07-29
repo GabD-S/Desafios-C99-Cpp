@@ -4,7 +4,7 @@ Esta pasta é dedicada a implementar projetos e conceitos aprendidos ao longo do
 
 ---
 
-## 📚 Projeto 1: Dicionário na mão
+## 📚 Projeto 1: Dicionário na mão 🛠️
 
 ### 📝 O que é um Dicionário?
 
@@ -75,7 +75,7 @@ int main(void)
 
 ---
 
-## 📚 Projeto 2: Lista na mão
+## 📚 Projeto 2: Lista na mão 🛠️
 
 ### 📝 O que é uma Lista?
 
@@ -512,7 +512,7 @@ Aqui, `a12'`, `a13'`, `a23'`, `b1'`, `b2'` e `b3'` são os novos valores após a
 
    Use a matriz triangular superior para resolver as variáveis a partir da última linha para a primeira.
 
-![Exemplo de Matriz Escalonada](#link-para-imagem)
+![Exemplo de Matriz Escalonada](Imagnes/mat.png)
 
 ---
 
