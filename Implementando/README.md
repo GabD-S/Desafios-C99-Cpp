@@ -512,7 +512,7 @@ Aqui, `a12'`, `a13'`, `a23'`, `b1'`, `b2'` e `b3'` são os novos valores após a
 
    Use a matriz triangular superior para resolver as variáveis a partir da última linha para a primeira.
 
-![Exemplo de Matriz Escalonada](Imagnes/mat.png)
+![Exemplo de Matriz Escalonada](Desafios-C99/Imagnes/mat.png)
 
 ---
 
