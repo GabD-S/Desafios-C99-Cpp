@@ -23,6 +23,7 @@ Olá! Eu sou o Gabriel_S, e estou muito feliz em compartilhar meu progresso e pr
 
 Neste repositório, você encontrará uma pasta chamada `implementando`, onde estou testando vários métodos aprendidos ao longo do curso na prática. Estes incluem:
 
+🎓 [Acesse a pasta Implementando](./Implementando)
 - 🔢 Escalonamento de Gauss
 - 📋 Implementação de lista em linguagem C
 
@@ -30,5 +31,4 @@ Explore e veja como estou aplicando esses conceitos na prática!
 
 ---
 
-🎓 [Acesse a pasta Implementando](./Implementando)
 
