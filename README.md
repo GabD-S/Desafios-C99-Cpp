@@ -14,7 +14,8 @@ Beecrowd é uma plataforma incrível para aprender e praticar programação. Com
 Olá! Eu sou o Gabriel_S, e estou muito feliz em compartilhar meu progresso e projetos com você. Aqui você encontrará uma coleção dos meus melhores trabalhos e implementações de diversos métodos que aprendi.
 
 📸  
-![Meu Rank](https://www.beecrowd.com/user_rank.png)  
+<img src="Imagnes/be.png" alt="Meu Rank" width="600"/> 
+
 🔝 Estou entre os melhores da plataforma!
 
 ---
