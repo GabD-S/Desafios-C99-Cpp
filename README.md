@@ -15,7 +15,7 @@ Olá! Eu sou o Gabriel_S, e estou muito feliz em compartilhar meu progresso e pr
 🎓 [Acesse a pasta Problemas Beecrownd](Problemas-Becrownd)
 
 📸  
-<img src="Imagnes/Perfil.png" alt="Meu Rank" width="600"/> 
+<img src="Imagnes/Perfil.png" alt="Meu Rank" width="500"/> 
 
 🔝 Estou entre os melhores da plataforma!
 Atualizado em 6/set
