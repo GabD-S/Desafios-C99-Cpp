@@ -26,7 +26,7 @@ Experimente o **Sistema de Mercado Virtual** e descubra uma nova forma de gerenc
 
 ---
 
-## 📚 Projeto 1: Dicionário na mão 🛠️
+## 📚 Dicionário sem bibliotecas 🛠️
 
 ### 📝 O que é um Dicionário?
 
@@ -97,7 +97,7 @@ int main(void)
 
 ---
 
-## 📚 Projeto 2: Lista na mão 🛠️
+## 📚 Lista sem bibliotecas 🛠️
 
 ### 📝 O que é uma Lista?
 
@@ -214,7 +214,7 @@ int main(){
 
 ---
 
-## 📚 Projeto 3: Fração
+## 📚 Fração
 
 ### 📝 O que é uma Fração?
 
@@ -290,7 +290,7 @@ int main(void)
 
 ---
 
-## 📚 Projeto 4: Escalonador de Matrizes em C
+## 📚 Escalonador de Matrizes em C
 
 ### 📝 O que é o Método de Gauss?
 
