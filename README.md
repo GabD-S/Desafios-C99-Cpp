@@ -27,6 +27,7 @@ Atualizado em 6/set
 Neste repositório, você encontrará uma pasta chamada `implementando`, onde estou testando vários métodos aprendidos ao longo do curso na prática. Estes incluem:
 
 🎓 [Acesse a pasta Implementando](./Implementando)
+- 🗄️ Sistema de um supermercado, com atualizador de preço em tempo real de produtos no mercado livre
 - 🔢 Escalonamento de Gauss
 - 📋 Implementação de lista em linguagem C
 
