@@ -4,6 +4,28 @@ Esta pasta é dedicada a implementar projetos e conceitos aprendidos ao longo do
 
 ---
 
+
+## 🛒 Sistema de Mercado Virtual
+
+O **Sistema de Mercado Virtual** é uma ferramenta inovadora projetada para gerenciar suas compras em um supermercado virtual de forma eficiente e prática. Com este sistema, você pode adicionar e remover produtos do seu carrinho, além de ajustar suas compras com base no orçamento disponível.
+
+### 🌐 Web Scraping: Mantendo a Atualização dos Preços
+
+Para garantir que os preços e nomes dos produtos estejam sempre atualizados e reflitam a realidade do mercado, o **Sistema de Mercado Virtual** utiliza **web scraping**. 
+
+**Web scraping** é uma técnica de coleta automatizada de dados de websites. No **Timelint**, isso significa que:
+
+- **Obtemos Dados Atualizados**: O sistema extrai informações em tempo real de sites como o Mercado Livre.
+- **Mantemos a Precisão**: Asseguramos que os preços e nomes dos produtos exibidos sejam precisos e correspondam às informações reais do mercado.
+
+Com o uso de web scraping, o **Sistema de Mercado Virtual** garante que você sempre tenha acesso a informações precisas e relevantes, melhorando a sua experiência de compra e ajudando a tomar decisões informadas.
+
+Experimente o **Sistema de Mercado Virtual** e descubra uma nova forma de gerenciar suas compras de maneira mais organizada e eficiente! 🚀
+
+![Clique aqui pra ter acesso ao sistema](https://github.com/GabD-S/Desafios-C99/tree/main/Implementando/Projeto_Final)
+
+---
+
 ## 📚 Projeto 1: Dicionário na mão 🛠️
 
 ### 📝 O que é um Dicionário?
@@ -521,25 +543,6 @@ Espero que você ache estes projetos úteis e instrutivos! Sinta-se à vontade p
 Se você tiver alguma dúvida ou sugestão, não hesite em entrar em contato. 📧
 
 ---
-
-## 🛒 Sistema de Mercado Virtual
-
-O **Sistema de Mercado Virtual** é uma ferramenta inovadora projetada para gerenciar suas compras em um supermercado virtual de forma eficiente e prática. Com este sistema, você pode adicionar e remover produtos do seu carrinho, além de ajustar suas compras com base no orçamento disponível.
-
-### 🌐 Web Scraping: Mantendo a Atualização dos Preços
-
-Para garantir que os preços e nomes dos produtos estejam sempre atualizados e reflitam a realidade do mercado, o **Sistema de Mercado Virtual** utiliza **web scraping**. 
-
-**Web scraping** é uma técnica de coleta automatizada de dados de websites. No **Timelint**, isso significa que:
-
-- **Obtemos Dados Atualizados**: O sistema extrai informações em tempo real de sites como o Mercado Livre.
-- **Mantemos a Precisão**: Asseguramos que os preços e nomes dos produtos exibidos sejam precisos e correspondam às informações reais do mercado.
-
-Com o uso de web scraping, o **Sistema de Mercado Virtual** garante que você sempre tenha acesso a informações precisas e relevantes, melhorando a sua experiência de compra e ajudando a tomar decisões informadas.
-
-Experimente o **Sistema de Mercado Virtual** e descubra uma nova forma de gerenciar suas compras de maneira mais organizada e eficiente! 🚀
-
-![Clique aqui pra ter acesso ao sistema](Implementando/Projeto_Final)
 
 
 
