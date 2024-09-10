@@ -22,7 +22,7 @@ Com o uso de web scraping, o **Sistema de Mercado Virtual** garante que você se
 
 Experimente o **Sistema de Mercado Virtual** e descubra uma nova forma de gerenciar suas compras de maneira mais organizada e eficiente! 🚀
 
-![Clique aqui pra ter acesso ao sistema](https://github.com/GabD-S/Desafios-C99/tree/main/Implementando/Projeto_Final)
+[Clique aqui pra ter acesso ao sistema](https://github.com/GabD-S/Desafios-C99/tree/main/Implementando/Projeto_Final)
 
 ---
 
