@@ -1,7 +1,7 @@
 15 50
 M
 C
-18 38.90 10
+Camisas 38.90 10
 C
 Carregador 174.90 0
 C
