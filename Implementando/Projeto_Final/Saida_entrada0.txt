@@ -1,0 +1,303 @@
+ERRO: Nao foi possível realizar essa operacao
+Licor 3 x 88.50 = 265.50
+TOTAL: 265.50
+Licor 3 x 88.50 = 265.50
+TOTAL: 265.50
+Licor 3 x 88.50 = 265.50
+TOTAL: 265.50
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 293.29
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 293.29
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 293.29
+ERRO: Nao foi possível realizar essa operacao
+ERRO: O produto Arroz nao esta no carrinho
+ERRO: O produto Cápsulas nao esta no carrinho
+ERRO: O produto Vinho nao esta no carrinho
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 293.29
+Italac 1 x 5.99 = 5.99
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 299.28
+ERRO: O produto Fraldas nao esta no carrinho
+Italac 1 x 5.99 = 5.99
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 299.28
+Italac 1 x 5.99 = 5.99
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 299.28
+Italac 1 x 5.99 = 5.99
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 299.28
+ERRO: O produto Café nao esta no carrinho
+Italac 1 x 5.99 = 5.99
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 299.28
+ERRO: O produto Pilão nao esta no carrinho
+Italac 1 x 5.99 = 5.99
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 299.28
+Italac 1 x 5.99 = 5.99
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 299.28
+ERRO: O produto Ballena nao esta no carrinho
+ERRO: O produto Papel nao esta no carrinho
+ERRO: O produto Azeite nao esta no carrinho
+Italac 1 x 5.99 = 5.99
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 299.28
+Italac 1 x 5.99 = 5.99
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 299.28
+Italac 1 x 5.99 = 5.99
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 299.28
+ERRO: O produto Café nao esta no carrinho
+Italac 1 x 5.99 = 5.99
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 299.28
+ERRO: Nao foi possível realizar essa operacao
+ERRO: O produto Arroz nao esta no carrinho
+ERRO: O produto Azeite nao esta no carrinho
+Italac 1 x 5.99 = 5.99
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 299.28
+Italac 1 x 5.99 = 5.99
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 299.28
+Italac 1 x 5.99 = 5.99
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 299.28
+ERRO: O produto Café nao esta no carrinho
+Italac 1 x 5.99 = 5.99
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 299.28
+Italac 1 x 5.99 = 5.99
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 299.28
+ERRO: O produto Alimento nao esta no carrinho
+ERRO: O produto Vinho nao esta no carrinho
+Italac 1 x 5.99 = 5.99
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 299.28
+Italac 1 x 5.99 = 5.99
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 299.28
+ERRO: O produto Bolo nao esta no carrinho
+ERRO: O produto Azeite nao esta no carrinho
+Italac 1 x 5.99 = 5.99
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 299.28
+Italac 1 x 5.99 = 5.99
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 299.28
+ERRO: O produto Kit nao esta no carrinho
+Italac 1 x 5.99 = 5.99
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 299.28
+ERRO: O produto Vodka nao esta no carrinho
+Italac 1 x 5.99 = 5.99
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 299.28
+Italac 1 x 5.99 = 5.99
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 299.28
+Italac 1 x 5.99 = 5.99
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 299.28
+Italac 1 x 5.99 = 5.99
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 299.28
+ERRO: O produto Leite nao esta no carrinho
+Italac 1 x 5.99 = 5.99
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 299.28
+Italac 1 x 5.99 = 5.99
+Licor 3 x 88.50 = 265.50
+Xarope 1 x 27.79 = 27.79
+TOTAL: 299.28
+Italac 1 x 5.99 = 5.99
+Licor 2 x 125.93 = 251.86
+Xarope 1 x 27.79 = 27.79
+TOTAL: 285.64
+Italac 1 x 5.99 = 5.99
+Licor 2 x 125.93 = 251.86
+Xarope 1 x 27.79 = 27.79
+TOTAL: 285.64
+ERRO: O produto Alimento nao esta no carrinho
+Italac 1 x 5.99 = 5.99
+Licor 2 x 125.93 = 251.86
+Xarope 1 x 27.79 = 27.79
+TOTAL: 285.64
+Italac 1 x 5.99 = 5.99
+Licor 2 x 125.93 = 251.86
+Xarope 1 x 27.79 = 27.79
+TOTAL: 285.64
+ERRO: O produto Carregador nao esta no carrinho
+Italac 1 x 5.99 = 5.99
+Licor 2 x 125.93 = 251.86
+Xarope 1 x 27.79 = 27.79
+TOTAL: 285.64
+Italac 1 x 5.99 = 5.99
+Licor 2 x 125.93 = 251.86
+Xarope 1 x 27.79 = 27.79
+TOTAL: 285.64
+Italac 1 x 5.99 = 5.99
+Licor 2 x 125.93 = 251.86
+Xarope 1 x 27.79 = 27.79
+TOTAL: 285.64
+Italac 1 x 5.99 = 5.99
+Licor 2 x 88.50 = 177.00
+Xarope 1 x 27.79 = 27.79
+TOTAL: 210.78
+ERRO: Nao foi possível realizar essa operacao
+Italac 1 x 5.99 = 5.99
+Licor 2 x 88.50 = 177.00
+Xarope 1 x 27.79 = 27.79
+TOTAL: 210.78
+ERRO: O produto Absolut nao esta no carrinho
+ERRO: O produto Pilha nao esta no carrinho
+Italac 1 x 5.99 = 5.99
+Licor 2 x 88.50 = 177.00
+Xarope 1 x 27.79 = 27.79
+TOTAL: 210.78
+ERRO: O produto Whisky nao esta no carrinho
+ERRO: O produto Gillette nao esta no carrinho
+Azeite 1 x 45.72 = 45.72
+Italac 1 x 5.99 = 5.99
+Licor 2 x 88.50 = 177.00
+Xarope 1 x 27.79 = 27.79
+TOTAL: 256.50
+Azeite 1 x 45.72 = 45.72
+Italac 1 x 5.99 = 5.99
+Licor 2 x 88.50 = 177.00
+Xarope 1 x 27.79 = 27.79
+TOTAL: 256.50
+ERRO: O produto Omo nao esta no carrinho
+Azeite 1 x 45.72 = 45.72
+Italac 1 x 5.99 = 5.99
+Licor 2 x 88.50 = 177.00
+Xarope 1 x 27.79 = 27.79
+TOTAL: 256.50
+Azeite 1 x 45.72 = 45.72
+Italac 1 x 5.99 = 5.99
+Licor 2 x 88.50 = 177.00
+Xarope 1 x 27.79 = 27.79
+TOTAL: 256.50
+Arroz 1 x 36.95 = 36.95
+Azeite 1 x 45.72 = 45.72
+Italac 1 x 5.99 = 5.99
+Licor 2 x 88.50 = 177.00
+Xarope 1 x 27.79 = 27.79
+TOTAL: 293.45
+Arroz 1 x 36.95 = 36.95
+Azeite 1 x 45.72 = 45.72
+Italac 1 x 5.99 = 5.99
+Licor 2 x 88.50 = 177.00
+Xarope 1 x 27.79 = 27.79
+TOTAL: 293.45
+Arroz 1 x 36.95 = 36.95
+Azeite 1 x 45.72 = 45.72
+Italac 1 x 5.99 = 5.99
+Licor 2 x 88.50 = 177.00
+Xarope 1 x 27.79 = 27.79
+TOTAL: 293.45
+ERRO: O produto Absolut nao esta no carrinho
+ERRO: O produto Pilha nao esta no carrinho
+Arroz 1 x 36.95 = 36.95
+Azeite 1 x 45.72 = 45.72
+Italac 1 x 5.99 = 5.99
+Licor 2 x 88.50 = 177.00
+Xarope 1 x 27.79 = 27.79
+TOTAL: 293.45
+ERRO: O produto Ferrero nao esta no carrinho
+Arroz 1 x 36.95 = 36.95
+Azeite 1 x 45.72 = 45.72
+Italac 1 x 5.99 = 5.99
+Licor 2 x 88.50 = 177.00
+Xarope 1 x 27.79 = 27.79
+TOTAL: 293.45
+Arroz 1 x 36.95 = 36.95
+Azeite 1 x 45.72 = 45.72
+Italac 1 x 5.99 = 5.99
+Licor 2 x 88.50 = 177.00
+Xarope 1 x 27.79 = 27.79
+TOTAL: 293.45
+Arroz 1 x 36.95 = 36.95
+Azeite 1 x 45.72 = 45.72
+Italac 1 x 5.99 = 5.99
+Xarope 1 x 27.79 = 27.79
+TOTAL: 116.45
+Arroz 1 x 36.95 = 36.95
+Azeite 1 x 45.72 = 45.72
+Italac 1 x 5.99 = 5.99
+Xarope 1 x 27.79 = 27.79
+TOTAL: 116.45
+Arroz 1 x 36.95 = 36.95
+Azeite 1 x 45.72 = 45.72
+Italac 1 x 5.99 = 5.99
+Xarope 1 x 27.79 = 27.79
+TOTAL: 116.45
+18 5 x 38.90 = 194.50
+Arroz 1 x 36.95 = 36.95
+Italac 1 x 5.99 = 5.99
+Xarope 1 x 27.79 = 27.79
+TOTAL: 265.23
+ERRO: O produto Vodka nao esta no carrinho
+18 5 x 38.90 = 194.50
+Arroz 1 x 36.95 = 36.95
+Italac 1 x 5.99 = 5.99
+Xarope 1 x 27.79 = 27.79
+TOTAL: 265.23
+18 5 x 38.90 = 194.50
+Arroz 1 x 36.95 = 36.95
+Italac 1 x 5.99 = 5.99
+Xarope 1 x 27.79 = 27.79
+TOTAL: 265.23
+18 5 x 38.90 = 194.50
+Arroz 1 x 36.95 = 36.95
+Italac 1 x 5.99 = 5.99
+Xarope 1 x 27.79 = 27.79
+TOTAL: 265.23
+18 5 x 38.90 = 194.50
+Arroz 1 x 36.95 = 36.95
+Italac 1 x 5.99 = 5.99
+Xarope 1 x 27.79 = 27.79
+TOTAL: 265.23
+18 5 x 38.90 = 194.50
+Arroz 1 x 36.95 = 36.95
+Italac 1 x 5.99 = 5.99
+Xarope 1 x 27.79 = 27.79
+TOTAL: 265.23
+ERRO: O produto Ferrero nao esta no carrinho

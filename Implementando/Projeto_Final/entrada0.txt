@@ -1,0 +1,334 @@
+200 300
+C
+Fraldas 69.99 0
+O
+C
+Licor 88.50 12
+C
+Licor 88.50 10
+C
+Vinho 39.99 15
+C
+Vinho 38.50 9
+C
+Alimento 60.02 9
+M
+C
+Carregador 174.90 8
+M
+C
+Espumante 70.12 1
+M
+C
+Xarope 27.79 4
+M
+M
+C
+Kit 26.55 1
+C
+Pack 82.16 15
+M
+O
+R
+Arroz
+A
+Cápsulas 135
+C
+Café 47.32 1
+C
+Licor 125.93 14
+C
+Xô 39.99 9
+C
+Kit 65.39 2
+C
+Vinho 39.99 5
+C
+Whisky 213.32 10
+C
+Café 47.32 4
+R
+Vinho 2
+C
+Alimento 165.39 13
+C
+Azeite 34.95 3
+C
+Café 47.32 1
+M
+C
+Italac 5.99 6
+C
+Óleo 31.41 5
+M
+R
+Fraldas
+M
+C
+Absolut 81.13 7
+C
+Campari 48.90 5
+C
+Deva 90 9
+C
+Lava-roupas 38.28 3
+M
+C
+Extra 99 2
+M
+R
+Café
+C
+Kit 106.99 14
+M
+R
+Pilão
+C
+Vodka 69.95 8
+C
+Cafe 47.15 4
+C
+Esporão 63.56 11
+M
+M
+C
+Azeite 34.95 9
+A
+Ballena 114.90
+A
+Papel 32.88
+A
+Azeite 45.72
+M
+C
+100un 64.50 0
+M
+M
+R
+Café
+C
+Arroz 36.95 8
+C
+Licor 88.50 12
+M
+O
+R
+Arroz
+A
+Azeite 46.47
+M
+C
+Vinho 59.90 13
+C
+Espumante 30.90 1
+C
+Whisky 379.42 8
+M
+C
+Alimento 60.02 14
+C
+Licor 125.93 11
+C
+Italac 5.99 10
+C
+Whisky 213.32 15
+C
+Carga 95.94 11
+M
+R
+Café
+C
+Cápsulas 135 11
+C
+Pilha 51.95 2
+C
+100un 64.50 0
+M
+C
+Café 47.32 11
+C
+112 158.90 12
+M
+C
+Azeite 34.95 4
+R
+Alimento
+R
+Vinho 20
+M
+C
+Azeite 45.72 10
+C
+Vodka 69.95 13
+C
+Deva 90 2
+M
+R
+Bolo 11
+C
+Fraldas 69.99 8
+R
+Azeite
+C
+Cerveja 40.68 4
+M
+M
+C
+Shampoo 62.60 4
+R
+Kit
+C
+Pilha 51.95 14
+M
+A
+Vodka 69.95
+M
+M
+C
+Arroz 36.95 0
+M
+M
+R
+Leite
+M
+C
+Espumante 70.12 5
+M
+A
+Licor 125.93
+M
+C
+Licor 125.93 3
+C
+Absolut 81.13 2
+C
+Azeite 272.25 14
+M
+C
+Cerveja 53.29 10
+R
+Alimento
+C
+Vinho 39.84 7
+M
+C
+100un 64.50 10
+M
+C
+Xarope 27.79 13
+R
+Carregador
+C
+Vinho 59.90 5
+M
+M
+M
+A
+Licor 88.50
+M
+O
+M
+A
+Absolut 81.13
+A
+Pilha 51.95
+M
+C
+Azeite 45.72 5
+A
+Whisky 129.29
+R
+Gillette 6
+C
+Gillette 55.45 11
+M
+M
+A
+Omo 32.75
+M
+M
+C
+100un 64.50 5
+C
+Arroz 36.95 14
+M
+M
+C
+Pack 82.16 9
+C
+Carregador 174.90 9
+M
+C
+Gillette 55.45 1
+C
+Kit 26.55 12
+C
+Azeite 34.95 3
+R
+Absolut
+C
+Espumante 30.90 10
+R
+Pilha
+C
+Whisky 129.29 12
+M
+R
+Ferrero
+C
+Deva 90 7
+C
+Café 47.32 0
+M
+C
+Kit 75.49 9
+C
+Azeite 45.72 5
+M
+R
+Licor
+M
+C
+Cesta 198.46 2
+M
+A
+Italac 5.99
+M
+A
+Azeite 272.25
+C
+18 38.90 7
+C
+Whisky 213.32 5
+M
+R
+Vodka 8
+M
+C
+Pilha 74.90 4
+C
+Kit 106.99 2
+C
+100un 64.50 3
+C
+Vinho 39.50 11
+M
+M
+C
+Extra 99 4
+C
+Alimento 60.02 7
+C
+Cesta 198.46 6
+C
+Gillette 55.45 12
+M
+C
+Whisky 379.42 2
+C
+Rum 59.40 9
+M
+C
+Tira 56.03 3
+A
+Ferrero 210.01

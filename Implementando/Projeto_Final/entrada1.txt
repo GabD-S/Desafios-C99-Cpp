@@ -1,0 +1,27 @@
+15 50
+M
+C
+18 38.90 10
+C
+Carregador 174.90 0
+C
+Café 47.32 9
+C
+Esporão 63.56 12
+C
+Cápsulas 135 7
+R
+Vinho
+C
+Cápsulas 135 3
+M
+M
+C
+Buchanan's 189.99 15
+C
+Absolut 81.13 12
+C
+Pack 82.16 13
+C
+Johnnie 78.36 2
+M

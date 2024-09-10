@@ -1,0 +1,8 @@
+TOTAL: 0.00
+ERRO: O produto Vinho nao esta no carrinho
+18 1 x 38.90 = 38.90
+TOTAL: 38.90
+18 1 x 38.90 = 38.90
+TOTAL: 38.90
+18 1 x 38.90 = 38.90
+TOTAL: 38.90
